@@ -1,0 +1,4 @@
+name: PluginBuild
+version: 1.0
+author: FaibAndLoup
+main: fr.loupfaib.pluginbuild.PluginBuild
